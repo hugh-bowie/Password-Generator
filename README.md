@@ -68,7 +68,7 @@ THEN the password is either displayed in an alert or written to the page
 
 - Follow the propmts to tweak your password specifications.
 
-## 👁‍🗨 Contributing
+## 👨🏼‍💻 Contributing
 
 :octocat: [Hugh Bowie](https://github.com/hugh-bowie)
 
