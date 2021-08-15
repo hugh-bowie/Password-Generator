@@ -18,7 +18,7 @@ A Strong Password Generator using javaScript, HTML and CSS.
 
 ## 🎬 Screenshot
 
-![password-generator](./password-generator.PNG)
+![password-generator](./assets/password-generator.gif)
 
 ## 🃏 User Story
 
@@ -74,4 +74,5 @@ THEN the password is either displayed in an alert or written to the page
 
 ## ⁉️ Questions
 
-Contact me with any questions: [hughbowie@me.com](mailto:hughbowie@me.com)<br />[GitHub](https://github.com/hugh-bowie)<br />
+Contact me with any questions:
+[hughbowie@me.com](mailto:hughbowie@me.com)<br />[GitHub](https://github.com/hugh-bowie)<br />
