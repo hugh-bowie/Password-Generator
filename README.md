@@ -22,7 +22,7 @@ A Strong Password Generator using javaScript, HTML and CSS.
 
 ## 🎬 Screenshot
 
-![password-generator](./password-generator.PNG)
+![password-generator](.assets/password-generator.gif)
 
 ## 🃏 User Story
 
